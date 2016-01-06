@@ -1,2 +1,4 @@
 # hello-world
-Just another repository added
+Hi Humans@
+
+Hubot there, I like Node.js and blahblah
